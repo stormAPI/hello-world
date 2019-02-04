@@ -1,2 +1,2 @@
 # hello-world
-about me :I am a student form China.
+about me :I am a student from China.
